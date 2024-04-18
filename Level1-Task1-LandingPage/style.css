@@ -1,0 +1,37 @@
+:where(:not(iframe,canvas,img,svg,video):not(svg *)){all:unset;display:revert}*,::after,::before{box-sizing:border-box}ol,ul{list-style:none}img{max-width:100%}table{border-collapse:collapse}textarea{white-space:revert}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}* html .clearfix{height:1%}.clearfix{display:block}
+.primarycolor{background: #03045e;}
+.secondarycolor{background: #caf0f8;}
+.secondarytextcolor{color: #7c7c7c;}
+.secondarybtncolor{background: #eefafd;}
+h2{font-size: 1.4em;}
+h3{font-size: 1.1em;}
+h4{font-size: 1em;}
+.floatleft{float: left;}
+.floatright{float: right;}
+.textaligncenter{text-align: center;}
+.col-50{width: 50%;}
+.col-40{width: 40%;}
+.col-60{width: 60%;}
+.col-33{width: 33.3%;}
+
+
+
+#wrapper{width: 80em;margin: 0 auto;}
+
+/*navigation*/
+
+.logo
+
+/*hero*/
+
+/*sub section*/
+
+/*our services*/
+
+/*testamonial*/
+
+/*ctasection*/
+
+/*footer*/
+
+/*socials*/
